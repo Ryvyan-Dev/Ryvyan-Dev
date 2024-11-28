@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">STATS</p>
+<h2 align="left">- Java developer<br>-Intern at @SEMA</h2>
+
+###
+
+<h3 align="left">STATS</h3>
 
 ###
 
@@ -13,7 +17,7 @@
 
 ###
 
-<p align="left"><b>Technologies<b></p>
+<h2 align="left">Technologies</h2>
 
 ###
 
@@ -27,7 +31,7 @@
 
 ###
 
-<p align="left"><b>Networks<b></p>
+<h2 align="left">Networks</h2>
 
 ###
 
